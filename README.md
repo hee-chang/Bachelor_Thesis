@@ -1,1 +1,1 @@
-# mini_project_4
+# This is my bachelor's thesis for Graduation
